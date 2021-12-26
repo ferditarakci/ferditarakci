@@ -7,14 +7,14 @@
 ```js
 const app = new Vue({
 	el: '#app',
-	name: "About",
+	name: "About me",
 	data: {
 		name: 'Ferdi Tarakcı',
 		title: 'Web Developer',
 		age: 36,
 		city: 'İstanbul',
 		company: 'Digidea',
-		position: 'Front-End Developer'
+		jobTitle: 'Front-End Developer'
 	}
 });
 ```
