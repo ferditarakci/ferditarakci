@@ -2,7 +2,7 @@
 
 ```
 
-<img alt="Ferdi Tarakcı Development" src="images/ferditarakci-development.gif" width="480" align="right">
+<img alt="Ferdi Tarakcı Development" src="images/ferditarakci-development.gif" width="430" align="right">
 
 ```js
 import { createApp } from 'vue'
