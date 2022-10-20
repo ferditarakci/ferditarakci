@@ -16,7 +16,7 @@ const app = createApp({
       jobTitle: 'Front-End Developer'
       age: 37,
       city: 'İstanbul',
-      company: 'Digidea',
+      company: 'TransferChain',
     }
   }
 });
