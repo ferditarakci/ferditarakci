@@ -8,13 +8,12 @@
 import { createApp } from 'vue'
 
 const app = createApp({
-  name: "About me",
+  name: 'About me',
   data() {
     return {
       name: 'Ferdi Tarakcı',
       title: 'Web Developer',
-      jobTitle: 'Front-End Developer'
-      age: 37,
+      jobTitle: 'Front-End Developer',
       city: 'İstanbul',
       company: 'TransferChain',
     }
