@@ -12,8 +12,8 @@ const app = createApp({
   data() {
     return {
       name: 'Ferdi Tarakcı',
-      title: 'Web Developer',
-      jobTitle: 'Front-End Developer',
+      title: 'Software Developer',
+      jobTitle: 'Front-End Web Developer',
       city: 'İstanbul',
       company: 'TransferChain',
     }
