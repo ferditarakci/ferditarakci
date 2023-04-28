@@ -14,8 +14,8 @@ const app = createApp({
       name: 'Ferdi Tarakcı',
       title: 'Software Developer',
       jobTitle: 'Front-End Web Developer',
-      city: 'İstanbul',
       company: 'TransferChain',
+      city: 'İstanbul',
     }
   }
 });
