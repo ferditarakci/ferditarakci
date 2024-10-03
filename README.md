@@ -11,11 +11,11 @@ const app = createApp({
   name: 'About me',
   data() {
     return {
-      name: 'Ferdi Tarakcı',
+      name: 'Ferdi Tarakci',
       title: 'Software Developer',
       jobTitle: 'Front-End Web Developer',
       company: 'TransferChain',
-      city: 'İstanbul',
+      city: 'Istanbul',
     }
   }
 });
