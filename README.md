@@ -8,19 +8,20 @@
 import { createApp } from 'vue'
 
 const app = createApp({
-  name: 'About me',
+  name: 'AboutMe',
+
   data() {
     return {
       name: 'Ferdi Tarakci',
       title: 'Software Developer',
-      jobTitle: 'Front-End Web Developer',
+      job: 'Front-End Web Developer',
       company: 'TransferChain',
-      city: 'Istanbul',
+      city: 'Istanbul'
     }
   }
-});
+})
 
-app.mount('#app');
+app.mount('#app')
 ```
 
 ### Hi there! 👋 
