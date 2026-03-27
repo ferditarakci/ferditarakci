@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=167ff9&center=true&vCenter=true&width=700&lines=Hi there!+I%27m+Ferdi+Tarakci+👋;Frontend+Developer+from+Istanbul+📌;Welcome+to+my+GitHub+profile!" alt="Software Developer Ferdi Tarakci"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=167ff9&center=true&vCenter=true&width=700&lines=Hi+there!+I%27m+Ferdi+Tarakci+👋;Frontend+Developer+from+Istanbul+📌;Welcome+to+my+GitHub+profile!" alt="Software Developer Ferdi Tarakci" />
 </p>
 
 ## 👋 Hi there!
@@ -47,6 +47,6 @@ I have been a front-end developer for over 10 years building user-centric interf
 
 <br />
 
-<p style="text-align: center; opacity: 0.5">
+<p style="text-align: center">
 JavaScript, React, Vue.js, TypeScript, Next.js, Nuxt.js, Node.js, Quasar, Pinia, Redux, Python, Php, MySql, MsSql, PostgreSQL, Sqlite, GraphQL, jQuery, Html5, Css3, Material UI, Bootstrap, Sass, Scss, Webpack, Babel, Vite, Npm, Pnpm, Git, GitHub, GitLab, Bitbucket, Jira, Asana, Adobe Ps, Adobe Xd, Sketch, Figma, Zeplin
 </p>
